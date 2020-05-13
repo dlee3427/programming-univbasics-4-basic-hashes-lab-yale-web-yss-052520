@@ -10,8 +10,6 @@ def pioneer
   pioneer = {:name => "Grace Hopper"}
 end
 
-
 def id_hash_generator(number)
-  generator = {:id => number} 
+  {id: number} 
 end
-id_hash_generator[number] 
