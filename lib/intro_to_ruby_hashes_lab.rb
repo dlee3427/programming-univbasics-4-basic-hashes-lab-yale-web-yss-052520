@@ -14,3 +14,4 @@ end
 def id_hash_generator(number)
   generator = {:id => number.to_i) 
 end
+id_hash_generator[number] 
